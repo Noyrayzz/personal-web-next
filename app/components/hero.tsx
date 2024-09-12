@@ -1,6 +1,7 @@
 import Image from "next/image";
 import kelvin from "@/app/images/kelvin.jpg";
-// import Icon from "./icon";
+import Icon from "./icon";
+
 
 const Hero = () => {
 	return (
@@ -13,12 +14,11 @@ const Hero = () => {
 				<p>
 					I am a student from SMPN 1 Gedangan Sidoarjo, Im just started learning
 					about Frontend about last year started with html and css, just started
-					learning JavaScript and TypeScript
-				</p>
-				{/* <div className="flex space-x-2 items-center justify-center">
-					<Icon name="github" size={40} />
-					<Icon name="instagram" size={40} />
-				</div> */}
+						learning JavaScript and TypeScript
+					</p>
+				<div className="flex space-x-2 items-center justify-center">
+					<Icon name={"github"}/>
+				</div>
 			</div>
 		</div>
 	);
