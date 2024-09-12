@@ -63,7 +63,7 @@ const AboutMe = () => {
 				{/* TypeScript svg */}
 
 				<svg viewBox="0 0 128 128" height={40} width={40}>
-					<path fill="#fff" d="M22.67 47h99.67v73.67H22.67z" ></path>
+					<path fill="#fff" d="M22.67 47h99.67v73.67H22.67z"></path>
 					<path
 						data-name="original"
 						fill="#007acc"
@@ -71,7 +71,7 @@ const AboutMe = () => {
 				</svg>
 			</div>
 
-			<p >Framework that i usually use:</p>
+			<p>Framework that i usually use:</p>
 
 			<div className="flex space-x-2">
 				{/* TailWind svg */}
@@ -109,8 +109,8 @@ const AboutMe = () => {
 							y2="344"
 							gradientTransform="translate(0 .937) scale(.3122)"
 							gradientUnits="userSpaceOnUse">
-							<stop offset="0" stop-color="#41d1ff"></stop>
-							<stop offset="1" stop-color="#bd34fe"></stop>
+							<stop offset="0" stopColor="#41d1ff"></stop>
+							<stop offset="1" stopColor="#bd34fe"></stop>
 						</linearGradient>
 						<linearGradient
 							id="b"
@@ -120,9 +120,9 @@ const AboutMe = () => {
 							y2="292.989"
 							gradientTransform="translate(0 .937) scale(.3122)"
 							gradientUnits="userSpaceOnUse">
-							<stop offset="0" stop-color="#ffea83"></stop>
-							<stop offset=".083" stop-color="#ffdd35"></stop>
-							<stop offset="1" stop-color="#ffa800"></stop>
+							<stop offset="0" stopColor="#ffea83"></stop>
+							<stop offset=".083" stopColor="#ffdd35"></stop>
+							<stop offset="1" stopColor="#ffa800"></stop>
 						</linearGradient>
 					</defs>
 					<path
