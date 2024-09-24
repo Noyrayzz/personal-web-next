@@ -2,7 +2,7 @@ import ThemeChanger from "./themeChanger";
 
 const Nav = () => {
 	return (
-		<nav className="flex px-14 space-x-20 lg:justify-around">
+		<nav className="flex px-14 space-x-20 justify-around lg:justify-around">
 			<div className="lg:text-xl">
 				<h1>Kelvin</h1>
 			</div>
