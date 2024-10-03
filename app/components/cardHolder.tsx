@@ -19,7 +19,7 @@ const CardHolder = () => {
 				/>
 			</a>
 			<a
-				href="https://github.com/Noyrayzz/advice-generator-app-main"
+				href="https://github.com/Noyrayzz/faq-accordion-main"
 				target="_blank"
 				className="transition duration-150 ease-out hover:ease-in hover:translate-x-2 hover:-translate-y-2">
 				<Card
