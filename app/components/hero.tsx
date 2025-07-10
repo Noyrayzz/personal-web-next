@@ -15,10 +15,11 @@ const Hero = () => {
 					<span className="text-primary lg:text-8xl dark:text-green-400">Kelvin.</span>
 				</h1>
 				<p className="lg:text-xl">
-					I am a student from SMPN 1 Gedangan Sidoarjo, Im just started learning
-					about Frontend. <br className="hidden lg:block" /> About last year
-					started with html and css, just started learning JavaScript and
-					TypeScript
+					 I'm a student at SMK Telkom Sidoarjo, and I started getting into Frontend development back in 2022.
+					I began with HTML, CSS, and JavaScript, and later picked up TypeScript. Recently,<br className="hidden lg:block" /> I’ve also started learning
+					Python to explore more of the programming world.
+
+
 				</p>
 				<div className="flex space-x-2 items-center justify-center lg:justify-start">
 					{/* Github */}

@@ -6,8 +6,8 @@ const AboutMe = () => {
 			</h1>
 			<p className="lg:text-xl">
 				Hello there! I&apos;m Kelvin Yazid Irwanto, but you can call me Kelvin.
-				I was a student at SMPN 1 Gedangan. <br className="hidden lg:block" />{" "}
-				I&apos;m just a random nerd who loves trying new things, and that&apos;s
+				I was a student at SMK TELKOM SIDOARJO. <br className="hidden lg:block" />{" "}
+				I&apos;m just a random boy who loves trying new things, and that&apos;s
 				how I discovered the world of programming.{" "}
 				<br className="hidden lg:block" /> Here are some of the languages
 				I&apos;ve been using for the past few months:
