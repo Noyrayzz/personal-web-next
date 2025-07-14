@@ -15,8 +15,8 @@ const Hero = () => {
 					<span className="text-primary lg:text-8xl dark:text-green-400">Kelvin.</span>
 				</h1>
 				<p className="lg:text-xl">
-					 I&apos;m a student at SMK Telkom Sidoarjo, and I started getting into Frontend development back in 2022.
-					I began with HTML, CSS, and JavaScript, and later picked up TypeScript. Recently,<br className="hidden lg:block" /> I’ve also started learning
+					 I&apos;m a student at SMK Telkom Sidoarjo, and I started getting into <br className="hidden lg:block" /> Frontend development back in 2022.
+					I began with HTML, CSS, and JavaScript,<br className="hidden lg:block" /> and later picked up TypeScript. Recently, I’ve also started learning
 					Python to explore more of the programming world.
 
 
