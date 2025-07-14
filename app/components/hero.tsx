@@ -17,7 +17,7 @@ const Hero = () => {
 				<p className="lg:text-xl">
 					 I&apos;m a student at SMK Telkom Sidoarjo, and I started getting into <br className="hidden lg:block" /> Frontend development back in 2022.
 					I began with HTML, CSS, and JavaScript,<br className="hidden lg:block" /> and later picked up TypeScript. Recently, I’ve also started learning
-					Python to explore more of the programming world.
+					Python <br className="hidden lg:block" /> to explore more of the programming world.
 
 
 				</p>
