@@ -476,7 +476,7 @@ export default function ContraPortfolioPage() {
 								<a href="https://github.com/Noyrayzz" target="_blank" rel="noreferrer" className="hover:text-[#4a5264] transition-colors">
 									GitHub
 								</a>
-								<a href="https://www.instagram.com/kelvin_yazid/" target="_blank" rel="noreferrer" className="hover:text-[#4a5264] transition-colors">
+								<a href="https://www.instagram.com/noyzzid/" target="_blank" rel="noreferrer" className="hover:text-[#4a5264] transition-colors">
 									Instagram
 								</a>
 								<button onClick={copyEmail} className="text-left hover:text-[#4a5264] transition-colors">

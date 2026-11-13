@@ -41,7 +41,7 @@ const Hero = () => {
 					</a>
 
 					{/* Instagram */}
-					<a href="https://www.instagram.com/kelvin_yazid/" target="_blank" className="hover:animate-bounce hover:text-primary dark:hover:text-green-400">
+					<a href="https://www.instagram.com/noyzzid/" target="_blank" className="hover:animate-bounce hover:text-primary dark:hover:text-green-400">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
 							width="36"
